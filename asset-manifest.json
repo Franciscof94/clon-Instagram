@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/clon-instagram/static/css/main.5d5aec88.css",
+    "main.js": "/clon-instagram/static/js/main.8550d64f.js",
+    "static/js/787.1f6751f9.chunk.js": "/clon-instagram/static/js/787.1f6751f9.chunk.js",
+    "static/media/loginImg.png": "/clon-instagram/static/media/loginImg.c8a83ed83f3676a0e49f.png",
+    "static/media/options.svg": "/clon-instagram/static/media/options.e742070da5301dfee85e6e95b76b79bf.svg",
+    "static/media/publications.svg": "/clon-instagram/static/media/publications.5173a5947578d856016c025e714972be.svg",
+    "static/media/add.svg": "/clon-instagram/static/media/add.822242ac11c879a285e9d0906435dda3.svg",
+    "index.html": "/clon-instagram/index.html",
+    "static/media/addImg.svg": "/clon-instagram/static/media/addImg.1042342da6f903e740a62767ed936113.svg",
+    "static/media/newMessage.svg": "/clon-instagram/static/media/newMessage.4155fc666a522f30d352493a8b96609b.svg",
+    "static/media/inboxWhite.svg": "/clon-instagram/static/media/inboxWhite.1a02372d7b9c0780d1ccc4aad4e195a0.svg",
+    "static/media/notifications.svg": "/clon-instagram/static/media/notifications.5fc0dcbd6dc7dddc0c8aecc14acc8895.svg",
+    "static/media/inbox.svg": "/clon-instagram/static/media/inbox.e43c229b7dfc4d2af75a4c7443a1af8c.svg",
+    "static/media/explore.svg": "/clon-instagram/static/media/explore.17ebadb2b0bcdd1224ed4ca758c45340.svg",
+    "static/media/emoticon.svg": "/clon-instagram/static/media/emoticon.95860ddd0a92be8386a2d5e71596ab6f.svg",
+    "static/media/send.svg": "/clon-instagram/static/media/send.2d62e81fec8b64df02d0f9dd989065b6.svg",
+    "static/media/home.svg": "/clon-instagram/static/media/home.7d8049e5bb59ed96fd973c9964820d5b.svg",
+    "static/media/homeWhite.svg": "/clon-instagram/static/media/homeWhite.d3a08a5a5b7d406cef87fe760b1ffd4b.svg",
+    "static/media/save.svg": "/clon-instagram/static/media/save.76d3e328b6c01647b436ca12e74cc50f.svg",
+    "static/media/comment.svg": "/clon-instagram/static/media/comment.890d31403904f1fe05e1d0510e2bf1ec.svg",
+    "main.5d5aec88.css.map": "/clon-instagram/static/css/main.5d5aec88.css.map",
+    "main.8550d64f.js.map": "/clon-instagram/static/js/main.8550d64f.js.map",
+    "787.1f6751f9.chunk.js.map": "/clon-instagram/static/js/787.1f6751f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5aec88.css",
+    "static/js/main.8550d64f.js"
+  ]
+}
